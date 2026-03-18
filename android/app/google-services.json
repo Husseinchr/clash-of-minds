@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "782362937400",
+    "project_id": "tournament-app-b1764",
+    "storage_bucket": "tournament-app-b1764.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782362937400:android:a9a6fce3edd51da0adbecd",
+        "android_client_info": {
+          "package_name": "com.MobahasatKitab.tournament"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782362937400-nasar1tlbtr0kl3gslf8bht6djmiatls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MobahasatKitab.tournament",
+            "certificate_hash": "c52623868e1d980e557d0be2698ac65cae379c35"
+          }
+        },
+        {
+          "client_id": "782362937400-drt6r630vl845a0c14f0ooh2ttp03ti7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwX1yq1FebYvn8lXfjwL-3wYcEw7Le1ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782362937400-drt6r630vl845a0c14f0ooh2ttp03ti7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782362937400-5o2rc71jgbil6f6jugc128qidq9td8tf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MobahasatKitab.tournament"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
