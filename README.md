@@ -377,7 +377,7 @@ dependencies:
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/clash-of-minds.git
+git clone https://github.com/Husseinchr/clash-of-minds.git
 cd clash-of-minds
 ```
 
